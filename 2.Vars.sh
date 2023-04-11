@@ -16,4 +16,4 @@ echo A - $a
 # VARNAME=$(command)
 
 ## Access Variable from Shell
-echo C - $c
+echo c - $c
